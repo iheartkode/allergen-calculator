@@ -14,6 +14,9 @@ $(document).ready(function() {
       alert("Can't be blank..");
     }
     
+    parseInt($('#num1').val(" "));
+    parseInt($('#num2').val(" "));
+    
       
   
      
